@@ -32,12 +32,14 @@
   align-self: center;
   display: flex;
   flex-direction: column;
+  align-items: center;
   justify-content: center;
+  margin-top: 15px;
 }
 
 .actionBtn > a:last-child {
   color: var(--btnBgColor);
-  font-size: .85em;
+  font-size: 0.85em;
   font-weight: 400;
   font-style: normal;
 }
